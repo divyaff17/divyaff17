@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Divya%20Patel&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Co-Founder%20%40DD%20Developers&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Divya%20Patel&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=25&desc=Full-Stack%20Developer%20%7C%20Co-Founder%20%40DD%20Developers&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <!-- Typing SVG -->
@@ -27,7 +27,8 @@
 
 <br/>
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧑‍💻 About Me
 
@@ -46,7 +47,8 @@ technical roles.
 - 💡 Passionate about writing **clean, scalable, and maintainable code**
   
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Work Experience
 
@@ -57,7 +59,8 @@ technical roles.
 - 🔐 Built secure **JWT authentication** with role-based access control for Admin, Vendor & Customer roles
 - 🗄️ Integrated **Supabase (PostgreSQL)** for real-time data handling, inventory management & order tracking
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Projects
 
@@ -70,7 +73,8 @@ technical roles.
 | 🔧 **AquaShieldValve** | Industrial valve automation & quality assurance management system | May 2024 |
 | 🔋 **Battery Research — K/Na/Mg-Ion** | Analytical research on alternatives to lithium-ion batteries (potassium, sodium, magnesium) | Nov 2023 – Ongoing |
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -129,7 +133,8 @@ technical roles.
 ![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
 ![Web Project Management](https://img.shields.io/badge/Web_Project_Mgmt-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Certifications
 
@@ -152,7 +157,8 @@ technical roles.
 
 </div>
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -164,7 +170,8 @@ technical roles.
 
 
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 Contribution Graph
 
@@ -172,7 +179,8 @@ technical roles.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyaspatel&theme=tokyo-night&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&hide_border=true" alt="Contribution Graph"/>
 </div>
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Connect With Me
 
@@ -197,7 +205,8 @@ technical roles.
   </a>
 </div>
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Snake Animation -->
 <div align="center">
