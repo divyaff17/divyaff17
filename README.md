@@ -57,19 +57,6 @@ technical roles.
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Projects
-
-| Project | Description | Period |
-|---|---|---|
-| 🛍️ **Popclozet Rental E-commerce** | Rental-based e-commerce platform for outfit discovery, booking & order management | Nov 2025 – Present |
-| 🏙️ **Smart City Complaint Portal** | Centralized portal for citizen issue reporting, complaint tracking & resolution workflows | Oct–Nov 2025 |
-| 🎓 **Sharda Science Institute Management System** | End-to-end web-based system to digitalize academic & administrative workflows | Jun 2025 |
-| 🔍 **Financial Fraud Detection System** | AI-powered platform for real-time anomaly detection in financial transactions | Feb 2024 |
-| 🔧 **AquaShieldValve** | Industrial valve automation & quality assurance management system | May 2024 |
-| 🔋 **Battery Research — K/Na/Mg-Ion** | Analytical research on alternatives to lithium-ion batteries (potassium, sodium, magnesium) | Nov 2023 – Ongoing |
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
