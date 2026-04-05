@@ -40,11 +40,6 @@ solving ability, disciplined development approach, and a professional mindset su
 technical roles.
 ```
 
-- 🏛️ **Backend Developer @ IIT Bombay** — working on Popclozet, a rental e-commerce platform with PWA-ready APIs & JWT auth
-- 🚀 **Co-Founder at DD Developers** — building production-grade web & AI-powered solutions
-- 🎓 Pursuing **B.Tech ICT @ Adani University** with a CGPA of **8.12/10**
-- 🌱 Currently exploring **Generative AI**, **LLMs**, and **Cloud Architecture**
-- 💡 Passionate about writing **clean, scalable, and maintainable code**
   
 
 <!-- Animated divider -->
