@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+Developer+%40+IIT+Bombay+(Popclozet)+%F0%9F%8F%9B%EF%B8%8F;Co-Founder+%40DD+Developers+%F0%9F%92%BC;Building+Scalable+Web+%26+AI+Solutions+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+Cloud+Enthusiast+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+Developer+%40+IIT+Bombay+(Popclozet)+%F0%9F%8F%9B%EF%B8%8F;Co-Founder+%40Dioraa+%F0%9F%92%BC;Building+Scalable+Web+%26+AI+Solutions+%F0%9F%A4%96;Generative+AI+%7C+LLMs+%7C+Cloud+Enthusiast+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </div>
 
